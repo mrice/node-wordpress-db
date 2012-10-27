@@ -1,0 +1,11 @@
+{
+	"name"         : "node-wordpress-db",
+	"version"      : "0.1.0",
+	"preferGlobal" : "false",
+	"author"       : "michael rice <me@michaelrice.com>",
+	"description"  : "easy connection to the wordpress database",
+	"main"         : "./node-wordpress-db",
+	"dependencies" : {
+		"mysql" : ">=2.0.0-alpha3"
+	}
+}
